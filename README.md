@@ -1,3 +1,4 @@
+
 # Meralco Bill to Google Sheets Script
 - Original Script From
 - [kevinlenida.com/posts/meralco-bill-in-google-sheets](https://kevinlenida.com/posts/meralco-bill-in-google-sheets)
@@ -8,7 +9,8 @@
 
 - Then on your Google Sheet Make your Columns Like This
 | Meralco Email | CAN | SIN | Billing Period | kWh | Amount Due | Due Date | Record Date |
- 
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+
 # Differences from Original code
 This Script has Columns
 - Service Invoice Number (SIN)
