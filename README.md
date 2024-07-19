@@ -9,7 +9,8 @@
 - Then on your Google Sheet Make your Columns Like This
 | Meralco Email | CAN | SIN | Billing Period | kWh | Amount Due | Due Date | Record Date |
 | :------------ | :-- | :-- | :------------- | :-- | :--------- | :------- | :---------- |
-
+| `sss          | sss | sss | ssssssssssssss | sss | ssssssssss | ssssssss | sssssssssss |
+ 
 # Differences from Original code
 This Script has Columns
 - Service Invoice Number (SIN)
