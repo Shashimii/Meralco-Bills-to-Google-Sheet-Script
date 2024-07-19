@@ -8,6 +8,7 @@
 - On the part where you need to paste the code get the modified code from this Repository
 
 - Then on your Google Sheet Make your Columns Like This
+
 | Meralco Email | CAN | SIN | Billing Period | kWh | Amount Due | Due Date | Record Date |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 
