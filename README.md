@@ -8,7 +8,7 @@
 
 - Then on your Google Sheet Make your Columns Like This
 | Meralco Email | CAN | SIN | Billing Period | kWh | Amount Due | Due Date | Record Date |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| :------------ | :-- | :-- | :------------- | :-- | :--------- | :------- | :---------- |
 
 # Differences from Original code
 This Script has Columns
